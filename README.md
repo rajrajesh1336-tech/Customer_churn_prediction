@@ -17,7 +17,7 @@
 ---
 ## 📂 Project Structure
 ---
-
+```text
 Customer_churn_predection/
 │
 ├── Data/
@@ -35,7 +35,7 @@ Customer_churn_predection/
 ├── requirements.txt
 ├── best_model.pkl
 ├── app.py
-
+```
 ---
 ## ⚙️ Tech Stack
 - Python 🐍
